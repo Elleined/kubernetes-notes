@@ -8,6 +8,6 @@ Notes for Kubernetes
 
 ## Advantages of Kubernetes
 - Orchestrate/ Manage container
-- Scalability
+- Auto scaling: Basically adding and removing container based on user traffic.
 - Self Healing: Meaning that when a container is damage or somehow stop working for some reason kubernetes will replace that damage container will new container.
 - Load Balancing
